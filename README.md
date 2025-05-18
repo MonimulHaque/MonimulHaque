@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MongoDB, Express.js, React, and Node.js**
 
-- 👨‍💻 All of my projects are available at [https://monimulhaque.github.io/portfolio_html/](https://monimulhaque.github.io/portfolio_html/)
+- 👨‍💻 All of my projects are available at [https://monimulhaque.github.io/monimul_portfolio/)
 
 - 💬 Ask me about **MongoDB, Express.js, React, and Node.js**
 
